@@ -1,4 +1,4 @@
-### https://drive.google.com/open?id=1BNqjidBVWP0_MUdMTeGy1wZiR6fqyGmCPytorch 1.2 implementation of paper "TPU: Sparse and Non-uniform Point Cloud Upsampling with Transformer"
+### Pytorch 1.2 implementation of paper "TPU: Sparse and Non-uniform Point Cloud Upsampling with Transformer"
 
 ## environment config
 
@@ -19,7 +19,7 @@ cd ..
 
 ## Train data
 
-We use h5 file privided by [PUGAN](https://github.com/UncleMEDM/PUGAN-pytorch)  for training, download it [here]([PUGAN](https://drive.google.com/open?id=1BNqjidBVWP0_MUdMTeGy1wZiR6fqyGmC)).
+We use h5 file privided by [PUGAN](https://github.com/UncleMEDM/PUGAN-pytorch)  for training, download it [here](https://drive.google.com/open?id=1BNqjidBVWP0_MUdMTeGy1wZiR6fqyGmC).
 
 ```bash
 # train code
